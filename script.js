@@ -1,5 +1,5 @@
 // Interactions for PW coupon landing page
-const COUPON = 'KIBSEL0001';
+const COUPON = 'STAKIP0001';
 const PW_URL = 'https://pw.live'; // change to actual PW checkout/course URL if you want
 
 function copyToClipboard(text, btn){
